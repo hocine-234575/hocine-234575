@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @hocine-234575
+- 👀 I’m interested in Data Science 
+- 🌱 I’m currently learning Python.
